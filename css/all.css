@@ -88,24 +88,23 @@
     }
     
     .left {
-        min-height: 300px;
+        min-height: 10px;
         float: left;
         width: 220px;
-        padding: 20px
+        padding: 10px
     }
     
     .content {
         background: #fff;
         font-size: 14px;
         display: block;
-        /* padding: 1.5%; */
         width: 1200px;
         margin: 0 auto;
+        padding: 10%;
     }
     
     .end {
         clear: both;
-        /* background: url(../images/end.jpg) bottom; */
         color: #000;
         padding: 30px 0;
         text-align: center;
@@ -170,23 +169,20 @@
         padding: 5px 20px
     }
     
-    .bar strong {}
-    
     .msg {
         background: url(../images/msg.jpg) no-repeat right
     }
     
     .back {
-        z-index: 999;
         width: 120px;
         height: 40px;
-        background-color: #fff;
-        position: fixed;
-        top: 60px;
-        left: 60px;
+        background-color: lightgreen;
         color: #000;
         border-radius: 10px;
         text-align: center;
+        margin: auto;
+        width: 60%;
+        padding: 10px;
     }
     
     .back a {
