@@ -31,7 +31,7 @@
     }
     
     .menu {
-        background-color: green;
+        background-color: lightgreen;
     }
     
     .menu li {
@@ -166,7 +166,7 @@
     }
     
     .bar {
-        background: #bca64d;
+        background: aqua;
         padding: 5px 20px
     }
     
