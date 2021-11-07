@@ -193,6 +193,9 @@
         line-height: 40px;
         text-decoration: none;
     }
+    .back img{
+        width: 76px;
+    }
     
     .map {
         display: block;
