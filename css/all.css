@@ -267,3 +267,10 @@
         width: 100%;
         height: auto;
     }
+
+    .Feedback{
+        position: relative;
+        left: 500px;
+        top: 480px;
+        width: 35px;
+    }
