@@ -227,4 +227,9 @@ body {
 .s-pic1 img {
     width: 100%;
 }
+
+/*  */
+.g-site ul li{
+	width: 48%;
+}
 }
