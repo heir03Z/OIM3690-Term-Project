@@ -1,7 +1,5 @@
 @charset "utf-8";
 
-/*media*/
-
 @media screen and (max-width: 991px) {
 body {
     padding-top: 60px;

@@ -25,6 +25,11 @@ textarea {
     resize: none;
     overflow: hidden;
 }
+
+table{
+    opacity: 0.77;
+}
+
 .f-l, .y-l, .s-l {
     float: left;
 }
@@ -1156,32 +1161,35 @@ transform:scale(1.1, 1.1) translate(4%, 0);
     width: 100%;
     max-width: 100%;
     white-space: nowrap;
-    background-color: white;
+    background-color: grey;
 }
 
 .fl-table td, .fl-table th {
     text-align: center;
     padding: 8px;
+    color: pink;
+    font-family: cursive;
 }
 
 .fl-table td {
     border-right: 1px solid #f8f8f8;
     font-size: 12px;
+    font-family: cursive;
 }
 
 .fl-table thead th {
     color: #ffffff;
-    background: #4FC3A1;
+    background: pink;
 }
 
 
 .fl-table thead th:nth-child(odd) {
     color: #ffffff;
-    background: #324960;
+    background: black;
 }
 
 .fl-table tr:nth-child(even) {
-    background: #F8F8F8;
+    background: white;
 }
 
 /*  */
