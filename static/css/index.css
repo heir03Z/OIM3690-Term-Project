@@ -1083,9 +1083,10 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 .g-from .m-c h1{
 	font-size: 1.2em;
 	line-height: 2;
-	color: #fff;
+	color: white;
 	margin: 1em 0;
 	margin-left: -10px;
+    text-align: center;
 }
 .form {
     display: block;
@@ -1109,8 +1110,8 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 .label {
     margin-bottom: 0;
     font-family: cursive;
-    color: #fff;
-    font-size: 20px;
+    color: white;
+    font-size: 15px;
     line-height: 50px
 }
 .text-field {
@@ -1134,10 +1135,10 @@ transform:scale(1.1, 1.1) translate(4%, 0);
     height: 55px;
     margin-top: 30px;
     border-radius: 7px;
-    background-color: pink;
-    font-family: Proximanova, sans-serif;
+    background-color: rgb(236, 154, 167);
+    font-family: cursive;
     font-weight: 700;
-	color: #fff;
+	color: white;
 }
 
 
@@ -1172,6 +1173,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
     border-right: 1px solid #f8f8f8;
     font-size: 12px;
     font-family: cursive;
+    text-align: center;
 }
 
 .fl-table thead th {
