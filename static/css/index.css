@@ -27,7 +27,7 @@ textarea {
 }
 
 table{
-    opacity: 0.77;
+    opacity: 0.9;
 }
 
 .f-l, .y-l, .s-l {
@@ -1076,10 +1076,8 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 	   overflow: hidden;
     padding: 4em 0;
     z-index: 99;
-	background:#171d27;
 }
 .g-from .m-c{
-	border: 4px solid #fff;
 	padding: 2em ;
 }
 .g-from .m-c h1{
@@ -1087,7 +1085,6 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 	line-height: 2;
 	color: #fff;
 	margin: 1em 0;
-	background:#171d27;
 	margin-left: -10px;
 }
 .form {
@@ -1096,7 +1093,8 @@ transform:scale(1.1, 1.1) translate(4%, 0);
     margin-right: auto;
     margin-left: auto;
     padding-right: 10px;
-    padding-left: 10px
+    padding-left: 10px;
+    opacity: 1;
 }
 .first-last-name {
    
@@ -1110,13 +1108,13 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 }
 .label {
     margin-bottom: 0;
-    font-family: Proximanova, sans-serif;
+    font-family: cursive;
     color: #fff;
     font-size: 20px;
     line-height: 50px
 }
 .text-field {
-    height: 55px;
+    height: 30px;
     border-radius: 7px;
 	width: 100%;
 }
@@ -1128,7 +1126,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
     height: auto;
 	width: 100%;
     max-width: 509px;
-    min-height: 135px;
+    min-height: 50px;
     border-radius: 7px
 }
 .submit-button {
@@ -1136,7 +1134,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
     height: 55px;
     margin-top: 30px;
     border-radius: 7px;
-    background-color: #0049ff;
+    background-color: pink;
     font-family: Proximanova, sans-serif;
     font-weight: 700;
 	color: #fff;
@@ -1161,7 +1159,6 @@ transform:scale(1.1, 1.1) translate(4%, 0);
     width: 100%;
     max-width: 100%;
     white-space: nowrap;
-    background-color: grey;
 }
 
 .fl-table td, .fl-table th {
@@ -1178,18 +1175,17 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 }
 
 .fl-table thead th {
-    color: #ffffff;
+    color: black;
     background: pink;
 }
 
 
 .fl-table thead th:nth-child(odd) {
-    color: #ffffff;
-    background: black;
+    color: pink;
+    background-color: black;
 }
 
 .fl-table tr:nth-child(even) {
-    background: white;
 }
 
 /*  */
