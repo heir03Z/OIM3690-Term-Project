@@ -670,7 +670,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 	margin-top: 1em;
 }
 .g-csr .m-box .m-c ul li:hover {
-    border: 1px solid #ff2fc2
+    border: 1px solid pink;
 }
 
 /*js*/
@@ -738,7 +738,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 }
 .g-db .m-box .m-c  .s-info  h1{
 	 font-size: 1.2em;
-    background: linear-gradient(to top, #ff2fc2, #cf27ff);
+    background: linear-gradient(to top, pink, #cf27ff);
         -webkit-background-clip: text;
         color: transparent;
     line-height: 2;
@@ -754,7 +754,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 }
 .g-db .m-box .m-c  .s-info  span{
 	
-    color: #ff2fc2;
+    color: pink;
    
 }
 .g-db .m-box .m-c  .s-pic  {
@@ -793,7 +793,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 	top: 5px;
 	width: 10px;
 	height: 10px;
-	background: #ff2fc2
+	background: pink;
 }
 
 
@@ -825,7 +825,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 }
 .g-zldb .m-box .m-c  .s-info  span{
 	
-    color: #ff2fc2;
+    color: pink;
    
 }
 
@@ -846,11 +846,11 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 }
 .g_jjh  .u-title{
 	text-align: left;
-	border-left: 4px solid #cf27ff;
+	border-left: 4px solid pink;
 		text-indent: 1em;
-     border-image: -webkit-linear-gradient(#ff2fc2,#cf27ff) 30 30;
-     border-image: -moz-linear-gradient(#ff2fc2,#cf27ff) 30 30;
-     border-image: linear-gradient(#ff2fc2,#cf27ff) 30 30;
+     border-image: -webkit-linear-gradient(pink,#cf27ff) 30 30;
+     border-image: -moz-linear-gradient(pink,#cf27ff) 30 30;
+     border-image: linear-gradient(pink,#cf27ff) 30 30;
 }
 .g_jjh .s-info p{
 	 font-size: 1em;
@@ -976,7 +976,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 	margin: 0 10px;
 }
 .g-footer .m-c1  p a:hover{
-	color: #ff2fc2;border: 1px solid #ff2fc2;
+	color: pink;border: 1px solid pink;
 }
 .g-footer .m-c .s-l p a {
     color: inherit;
@@ -1142,10 +1142,6 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 }
 
 
-/*  */
-
-/* Table Styles */
-
 .table-wrapper{
     margin: 10px 70px 70px;
     box-shadow: 0px 35px 50px rgba( 0, 0, 0, 0.2 );
@@ -1210,11 +1206,11 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 .g-site ul li h3{
 	font-size: 1em;
 	line-height: 3;
-	color: #cf27ff;
+	color:pink;
 }
 .g-site ul li h3 a{
 	
-	color: #cf27ff;
+	color: pink;
 }
 .g-site ul li p{
 	font-size:0.8em;
