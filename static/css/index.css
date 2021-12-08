@@ -673,8 +673,6 @@ transform:scale(1.1, 1.1) translate(4%, 0);
     border: 1px solid pink;
 }
 
-/*js*/
-
 .g-js {
     padding: 6em 0 6em;
    
@@ -717,7 +715,6 @@ transform:scale(1.1, 1.1) translate(4%, 0);
     background-color: #ff2fc2
 }
 
-/**/
 .g-db {
     padding: 6em 0 6em;
     background: url("../images/pic7_02.jpg") no-repeat;
