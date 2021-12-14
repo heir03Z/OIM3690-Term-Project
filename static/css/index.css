@@ -551,7 +551,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
     color: #e2e2e2;
 }
 .g-nft .m-box .m-c ul li:hover {
-    border: 1px solid #ff2fc2
+    border: 1px solid pink;
 }
 
 /**/
@@ -598,7 +598,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 	
 }
 .g-jieg .m-c .s-info ul li:nth-of-type(2n){
-	border: 1px dashed #ff2fc2;
+	border: 1px dashed pink;
 	
 	
 }
@@ -610,7 +610,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 .g-jieg .m-c .s-info ul li:nth-of-type(2n) h1 {
    
    
-    color: #ff2fc2; 
+    color: pink; 
 }
 .g-jieg .m-c .s-info ul li p {
     font-size: 1em;
@@ -628,7 +628,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 .g-jieg .m-c .s-info ul li:nth-of-type(2n) p {
    
    
-   background: #ff2fc2;
+   background: pink;
 }
 
 /*csr*/
@@ -712,7 +712,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 	margin-top: 1em;
 }
 .g-js .m-box .m-c ul li:hover {
-    background-color: #ff2fc2
+    background-color: pink;
 }
 
 .g-db {
@@ -728,7 +728,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 }
 .g-db .m-box .m-c  .s-info  {
     width: 40%;
-   border: 1px solid #ff2fc2;
+   border: 1px solid pink;
    padding: 20px;
 		margin-top: 6em;
     
