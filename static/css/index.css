@@ -845,9 +845,9 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 	text-align: left;
 	border-left: 4px solid pink;
 		text-indent: 1em;
-     border-image: -webkit-linear-gradient(pink,#cf27ff) 30 30;
-     border-image: -moz-linear-gradient(pink,#cf27ff) 30 30;
-     border-image: linear-gradient(pink,#cf27ff) 30 30;
+     border-image: -webkit-linear-gradient(pink,lightblue) 30 30;
+     border-image: -moz-linear-gradient(pink,lightblue 30 30;
+     border-image: linear-gradient(pink,lightblue 30 30;
 }
 .g_jjh .s-info p{
 	 font-size: 1em;
