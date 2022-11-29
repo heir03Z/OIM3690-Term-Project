@@ -369,7 +369,7 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 }
 .u-title h3 {
     font-size: 2em;
-    background: linear-gradient(to top, #cf27ff, pink);
+    background: linear-gradient(to top, lightblue, pink);
         -webkit-background-clip: text;
         color: transparent;
 }
@@ -395,9 +395,9 @@ transform:scale(1.1, 1.1) translate(4%, 0);
 	text-align: left;
 	border-left: 4px solid salmon;
 		text-indent: 1em;
-     border-image: -webkit-linear-gradient(pink,#cf27ff) 30 30;
-     border-image: -moz-linear-gradient(pink,#cf27ff) 30 30;
-     border-image: linear-gradient(pink,#cf27ff) 30 30;
+     border-image: -webkit-linear-gradient(pink, lightblue 30 30;
+     border-image: -moz-linear-gradient(pink,lightblue 30 30;
+     border-image: linear-gradient(pink,lightblue) 30 30;
 }
 .g-bj .s-info .p{
 	 font-size: 1em;
